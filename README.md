@@ -1,7 +1,7 @@
 # Forge Repair
 
-Forge Repair is a 2D game that is a party game;
+Forge Repair is a 2D party game;<br/>
 Created in 48H for the Global Game Jam 2020 on the theme of repair.
 
-The game consist to 2 short mini game.
-The first is a clicker game and the second is a color matching game.
+There is mini games like a clicker and a color matching one.<br/>
+This game is about a blacksmith dragon who try to fix magical weapons and armor by his flame and might.
